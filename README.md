@@ -1,9 +1,12 @@
 ## Oii meu nome é Luis Gustavo, e sou estudante de tecnología!
+
+- 💻 Estudando Web Java no instituto PROA
+- 📗  Cursando Análise e Desenvolvimento de Sistemas na USJT
 <div align="center">
   <a href="https://github.com/GuReis01">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuReis01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuReis01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuReis01&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuReis01&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GuReis01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
