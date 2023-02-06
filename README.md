@@ -1,6 +1,7 @@
 ## Oii, eu sou o Luis Gustavo 🚀
 
-- 💻 Estudando Web Java no instituto PROA
+- 💚  Dev NetSuite na REPLY 
+- 💻  EX-PROANO - Web Java no instituto PROA
 - 📗  Cursando Análise e Desenvolvimento de Sistemas na USJT
 <div align="center">
   <a href="https://github.com/GuReis01">
